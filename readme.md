@@ -18,3 +18,15 @@
 
 > 具体日期和要求以 Canvas 最新通知为准。
 
+## 文件结构
+
+```text
+COMP2610/
+├── lectures/          # 课程讲义与笔记
+├── tutorials/         # Tutorial 题目与答案
+├── assignments/       # 作业资料
+│   ├── assignment_1/
+│   ├── assignment_2/
+│   └── assignment_3/
+└── exam/              # 考试与复习资料
+```
