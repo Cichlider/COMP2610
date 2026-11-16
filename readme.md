@@ -18,15 +18,24 @@
 
 > 具体日期和要求以 Canvas 最新通知为准。
 
-## 文件结构
+## Tutorial 双语讲解
 
-```text
-COMP2610/
-├── lectures/          # 课程讲义与笔记
-├── tutorials/         # Tutorial 题目与答案
-├── assignments/       # 作业资料
-│   ├── assignment_1/
-│   ├── assignment_2/
-│   └── assignment_3/
-└── exam/              # 考试与复习资料
-```
+| Tutorial | 原始 PDF | 英文题目、中文翻译、知识点与解题讲解 |
+| --- | --- | --- |
+| 1 · 基础概率 | [PDF](tutpdf/tut1.pdf) | [双语讲解](tutorials/tut1.md) |
+| 2 · 概率与贝叶斯推断 | [PDF](tutpdf/tut2.pdf) | [双语讲解](tutorials/tut2.md) |
+| 3 · 熵与信息 | [PDF](tutpdf/tut3.pdf) | [双语讲解](tutorials/tut3.md) |
+| 4 · 熵与信息 | [PDF](tutpdf/tut4.pdf) | [双语讲解](tutorials/tut4.md) |
+| 5 · 基本不等式与概率不等式 | [PDF](tutpdf/tut5.pdf) | [双语讲解](tutorials/tut5.md) |
+| 6 · 熵、互信息、相对熵与马尔可夫链 | [PDF](tutpdf/tut6.pdf) | [双语讲解](tutorials/tut6.md) |
+| 7 · 不等式、AEP、信源编码与典型集 | [PDF](tutpdf/tut7.pdf) | [双语讲解](tutorials/tut7.md) |
+| 8 · Huffman 编码 | [PDF](tutpdf/tut8.pdf) | [双语讲解](tutorials/tut8.md) |
+| 9 · Shannon 与 Huffman 编码 | [PDF](tutpdf/tut9.pdf) | [双语讲解](tutorials/tut9.md) |
+| 10 · 信道容量 | [PDF](tutpdf/tut10.pdf) | [双语讲解](tutorials/tut10.md) |
+| 11 · 离散无记忆信道 | [PDF](tutpdf/tut11.pdf) | [双语讲解](tutorials/tut11.md) |
+| 12 · Hamming 码与算术编码 | [PDF](tutpdf/tut12.pdf) | [双语讲解](tutorials/tut12.md) |
+
+## 往年试卷
+
+- [2023 Exam 原卷](2023Exam.pdf)
+- [2023 Exam 双语讲解](2023Exam.md)
